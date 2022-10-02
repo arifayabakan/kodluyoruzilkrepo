@@ -9,7 +9,7 @@ Bu repo Kodluyoruz Başlangıç Seviye Veri Bilimi Patikası eğitiminde oluştu
 
 # Installation
 
-[Link](https://github.com/seliind/kodluyoruzilkrepo.git](https://github.com/arifayabakan/kodluyoruzilkrepo)
+![Link](https://github.com/arifayabakan/kodluyoruzilkrepo)
 
 # Usage
 
